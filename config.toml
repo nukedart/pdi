@@ -1,8 +1,8 @@
 ############################ Default configuration #########################
-baseURL = "https://examplesite.com/"
+baseURL = "https://peteyd.xyz"
 languageCode = "en-us"
 # site title 
-title = "Northendlab | Blog Template"
+title = "Pete Dziedzic | Blog"
 # theme
 theme = "northendlab-hugo"
 # post pagination
