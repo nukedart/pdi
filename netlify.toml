@@ -1,5 +1,5 @@
 [build]
-  publish = "peteyd.xyz/public"
+  publish = "pdi/public"
   command = "cd pdi && hugo --gc --themesDir ../.."
   
 [build.environment]
