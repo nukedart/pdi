@@ -92,7 +92,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm Peter Dziedzic. <br> I help people make the internet more private and secure."
+title = "Hi, I'm Peter Dziedzic. <br> I help people make the internet more Safe and Secure"
 image = "images/banner/illustration.svg"
 
 
