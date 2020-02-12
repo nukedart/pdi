@@ -110,14 +110,14 @@ link = "https://gethugothemes.com/shop/"
 
 ############################## Social Site ##########################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-link = "#"
+icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC1gzyUkwB1VLz8RM0hI6mYg?view_as=subscriber"
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/nukedart"
 [[params.social]]
 icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/nukedart"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/ptdz/"
