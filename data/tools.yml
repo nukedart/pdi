@@ -1,4 +1,17 @@
 tools:
+
+# tool category
+- title: Security Tools
+  tool:
+  # tool loop in tool category
+  - name: 1Password
+    image: "/images/tools/1Password.png"
+    link: https://1password.com/
+  # tool loop in tool category
+  - name: Cryptomator
+    image: "/images/tools/Cryptomator.png"
+    link: https://cryptomator.org/
+
 # tool category
 - title: Dev Tools
   tool:
@@ -15,16 +28,17 @@ tools:
     image: "/images/tools/vs-code.png"
     link: https://code.visualstudio.com/
 
-
 # tool category
-- title: Security Tools
+- title: Productivity Tools
   tool:
   # tool loop in tool category
-  - name: Sketch
-    image: "/images/tools/sketch.png"
-    link: https://www.sketch.com/
-
-
+  - name: 1Password
+    image: "/images/tools/1Password.png"
+    link: https://1password.com/
+  # tool loop in tool category
+  - name: Cryptomator
+    image: "/images/tools/Cryptomator.png"
+    link: https://cryptomator.org/
 
 # tool category
 - title: Digital Marketing Tools

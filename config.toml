@@ -66,7 +66,7 @@ weight = 2
 # home
 home = "Home"
 # logo
-logo = "images/logov2.svg"
+logo = "images/logo4.svg"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
@@ -93,7 +93,7 @@ enable = true
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 title = "Hi, I'm Peter Dziedzic. <br> I help people make the internet more Safe and Secure"
-image = "images/banner/illustration.svg"
+image = "images/banner/banner4.png"
 
 
 ######################## call to action ###############################
