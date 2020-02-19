@@ -11,6 +11,10 @@ tools:
   - name: Cryptomator
     image: "/images/tools/Cryptomator.png"
     link: https://cryptomator.org/
+  # tool loop in tool category
+  - name: Brave Browser
+    image: "/images/tools/Brave_Browser.png"
+    link: https://brave.com/
 
 # tool category
 - title: Dev Tools
@@ -27,6 +31,11 @@ tools:
   - name: Visual Studio Code
     image: "/images/tools/vs-code.png"
     link: https://code.visualstudio.com/
+  # tool loop in tool category
+  - name: AWS
+    image: "/images/tools/AWS.png"
+    link: https://aws.amazon.com/
+
 
 # tool category
 - title: Productivity Tools
@@ -39,23 +48,18 @@ tools:
   - name: Cryptomator
     image: "/images/tools/Cryptomator.png"
     link: https://cryptomator.org/
+  # tool loop in tool category
+  - name: Termius SSH Client
+    image: "/images/tools/Termius.png"
+    link: https://www.termius.com/
+
+    
 
 # tool category
 - title: Digital Marketing Tools
   tool:
   # tool loop in tool category
-  - name: Mailchimp
-    image: "/images/tools/MailChimp.jpg"
-    link: https://mailchimp.com/
-  # tool loop in tool category
-  - name: Buffer
-    image: "/images/tools/Buffer.jpg"
-    link: https://buffer.com/
-  # tool loop in tool category
   - name: Google Trends
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
-  # tool loop in tool category
-  - name: Google Analytics
-    image: "/images/tools/Google-Analytics.jpg"
-    link: https://analytics.google.com/analytics/web
+
