@@ -15,14 +15,13 @@ Make sure you have the path in your file with:
 #!/usr/bin/env python
 ```
 
-Make the file an executable with:
-```
-chmod +x myfile.py
-```
+
 
 Let add some code to our file in order to demonstrate some code execution
 
 ```
+#!/usr/bin/env python
+
 import datetime
  
 currentDT = datetime.datetime.now()
@@ -34,6 +33,11 @@ print ("Current Hour is: %d" % currentDT.hour)
 print ("Current Minute is: %d" % currentDT.minute)
 print ("Current Second is: %d" % currentDT.second)
 print ("Current Microsecond is: %d" % currentDT.microsecond)
+```
+
+Make the file an executable with:
+```
+chmod +x myfile.py
 ```
 
 Run / Execute with:
