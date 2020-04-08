@@ -49,11 +49,6 @@ URL = "tools"
 name = "tools"
 weight = 2
 
-[[menu.main]]
-URL = "tools"
-name = "Docs"
-weight = 3
-
 # footer menu
 [[menu.footer]]
 URL = "contact"
@@ -97,7 +92,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm Peter Dziedzic. <br> I seek to empower others through the use of tools, simplicity and knowledge"
+title = "Hi, I'm Peter Dziedzic. <br> I seek to empower others through the use of tools, simplicity and knowledge."
 image = "images/banner/banner4.png"
 
 

@@ -11,6 +11,10 @@ tools:
   - name: Cryptomator
     image: "/images/tools/Cryptomator.png"
     link: https://cryptomator.org/
+
+# tool category
+- title: Privacy Tools
+  tool:
   # tool loop in tool category
   - name: Brave Browser
     image: "/images/tools/Brave_Browser.png"
@@ -36,30 +40,16 @@ tools:
     image: "/images/tools/AWS.png"
     link: https://aws.amazon.com/
 
-
 # tool category
 - title: Productivity Tools
   tool:
   # tool loop in tool category
-  - name: 1Password
-    image: "/images/tools/1Password.png"
-    link: https://1password.com/
-  # tool loop in tool category
-  - name: Cryptomator
-    image: "/images/tools/Cryptomator.png"
-    link: https://cryptomator.org/
+  - name: Dropbox
+    image: "/images/tools/Icon_Dropbox_Logo.png"
+    link: https://www.dropbox.com/h
   # tool loop in tool category
   - name: Termius SSH Client
     image: "/images/tools/Termius.png"
     link: https://www.termius.com/
 
-    
-
-# tool category
-- title: Digital Marketing Tools
-  tool:
-  # tool loop in tool category
-  - name: Google Trends
-    image: "/images/tools/GoogleTrends.jpg"
-    link: https://trends.google.com/trends/
 
