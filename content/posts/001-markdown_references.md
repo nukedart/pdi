@@ -15,9 +15,6 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 Basic Syntax
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-
-![Markdown Syntax Sheet](/images/post/post_001/Markdown Syntax Sheet.jpg)
-
 Element	Markdown Syntax
 <br>
 Heading	# H1

@@ -44,10 +44,6 @@ tools:
 - title: Productivity Tools
   tool:
   # tool loop in tool category
-  - name: Dropbox
-    image: "/images/tools/Icon_Dropbox_Logo.png"
-    link: https://www.dropbox.com/h
-  # tool loop in tool category
   - name: Termius SSH Client
     image: "/images/tools/Termius.png"
     link: https://www.termius.com/
